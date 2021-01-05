@@ -21,7 +21,7 @@
   align-items: flex-start;
   justify-content: space-between;
 
-  background: url("../../img/landing.svg") no-repeat 85% center;
+  background: url("../../assets/img/landing.svg") no-repeat 85% center;
 }
 
 #page-landing .content-wrapper main {

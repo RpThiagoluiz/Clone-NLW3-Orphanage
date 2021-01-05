@@ -1,12 +1,11 @@
-import React from "react";
 import { Link } from "react-router-dom";
 
 //icon
 import { FiArrowRight } from "react-icons/fi";
 //Img
-import logoImg from "../assets/img/Logo.svg";
+import logoImg from "../../assets/img/Logo.svg";
 //styles
-import "../assets/styles/pages/landing.css";
+import "./styles.css";
 
 const Landing = () => (
   <div id="page-landing">
